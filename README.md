@@ -16,9 +16,10 @@ I am Jianfeng Wang, a highly skilled software engineer and research assistant wi
 
 ## Publications
 
-**Papers**  
-- Jianfeng Wang, etc. MHKD-MVQA: Multimodal Hierarchical Knowledge Distillation for Medical Visual Question Answering. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2022).
-- Jianfeng Wang, etc. Knowledge-Enhanced Visual Question Answering with Multi-modal Joint Guidance. The 11th International Joint Conference on Knowledge Graphs. (IJCKG 2022).
+### Papers
+- [Jianfeng Wang, etc. MHKD-MVQA: Multimodal Hierarchical Knowledge Distillation for Medical Visual Question Answering. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2022)](https://www.computer.org/csdl/proceedings-article/bibm/2022/09995473/1JC2qFvLZ96).
+- [Jianfeng Wang, etc. Knowledge-Enhanced Visual Question Answering with Multi-modal Joint Guidance. The 11th International Joint Conference on Knowledge Graphs. (IJCKG 2022)](https://dl.acm.org/doi/abs/10.1145/3579051.3579073).
+
 
 **Patents**  
 - Wenqiang Zhang, Jianfeng Wang, etc. A method for knowledge-enhanced visual question answering based on multi-modal information guidance. CN Patent 202210174858.4, PCT/CN2022/200086.
