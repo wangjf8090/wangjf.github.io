@@ -9,34 +9,16 @@ I am Jianfeng Wang, a highly skilled software engineer and research assistant wi
 
 ## Skills
 
-### Languages & Frameworks
-- Python (Pytorch, Numpy, Pandas)
-- TensorFlow
-- JavaScript (TypeScript, React, Angular, Node.js)
-- Django, Flask
-- Linux, Docker, Redis, OpenStack, K8S, AWS, GCP
-
-### Database Management
-- API development
-- Microservices architecture
-- Cloud technologies
-- CI/CD, IaC (Terraform, CloudFormation)
-- Performance optimization
-- Disaster recovery
-
-### Software Development
-- API development
-- Microservices architecture
-- Cloud technologies
-
-### Statistical Learning Techniques
-- Data Preparation and Visualization
-- Machine Learning Methods (Graph Convolution Network, Transformer, etc.)
-- Model Analysis (Accuracy, Precision, etc.)
-- Model Fine-Tuning (Cross Validation, Clip, Regularization, etc.)
+- **Languages & Frameworks:** Python (Pytorch, Numpy, Pandas), TensorFlow, JavaScript (TypeScript, React, Angular, Node.js), Django, Flask, Linux, Docker, Redis, OpenStack, K8S, AWS, GCP
+- **Database Management:** API development, microservices architecture, cloud technologies, CI/CD, IaC (Terraform, CloudFormation), performance optimization, disaster recovery
+- **Software Development:** API development, microservices architecture, cloud technologies
+- **Statistical Learning Techniques:** Data Preparation and Visualization, Machine Learning Methods (Graph Convolution Network, Transformer, etc.), Model Analysis (Accuracy, Precision, etc.), Model Fine-Tuning (Cross Validation, Clip, Regularization, etc.)
 
 ## Publications
 
-### Papers
+**Papers**  
 - Jianfeng Wang, etc. MHKD-MVQA: Multimodal Hierarchical Knowledge Distillation for Medical Visual Question Answering. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2022).
 - Jianfeng Wang, etc. Knowledge-Enhanced Visual Question Answering with Multi-modal Joint Guidance. The 11th International Joint Conference on Knowledge Graphs. (IJCKG 2022).
+
+**Patents**  
+- Wenqiang Zhang, Jianfeng Wang, etc. A method for knowledge-enhanced visual question answering based on multi-modal information guidance. CN Patent 202210174858.4, PCT/CN2022/200086.
